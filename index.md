@@ -1,10 +1,10 @@
 # Welcome to 6G-CampusTwin4In
 
-A Campus Twin for 6G Research and Innovation
+6G Campus Network and Digital Twins for Industry 4.0
 
 ## About
 
-This is a placeholder for the 6G-CampusTwin4In project website.
+6G-CampusTwin4In is funded by the Federal Ministry of Research, Technology and Space of Germany (BMFTR)
 
 ## Coming Soon
 
